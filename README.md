@@ -1,14 +1,17 @@
 # Sparus-AUV-Model
 
-This repository contains a MATLAB/Simulink project related to the modeling and simulation of the Sparus underwater vehicle.
+This repository contains a MATLAB/Simulink project for the modeling and simulation of the Sparus autonomous underwater vehicle (AUV).
 
-## Project contents
+## Overview
 
-The repository includes:
-- MATLAB scripts for simulation, transformations, parameters, and plotting
+The project includes mathematical modeling, simulation scripts, parameter definition files, and result visualization for the Sparus vehicle. It also includes graph outputs generated during the project work.
+
+## Repository contents
+
+- MATLAB scripts for simulation, parameters, transformations, and plotting
 - MATLAB live scripts for added mass, drag force, and global mass matrix calculations
-- Simulink model files
-- Graph images generated from the project
+- Simulink model files for the Sparus vehicle model
+- Graphical outputs stored in `Report/Graphs`
 
 ## Main files
 
@@ -19,8 +22,11 @@ The repository includes:
 - `MeaSim.m`
 - `Plotting.m`
 - `Command.m`
+- `jacobienne.m`
+- `transformation_matrix.m`
 
 ## Notes
 
-Generated and compiled files are excluded from this repository.
-This repository is intended to present the project structure, source files, and graphical results.
+Generated, cache, and compiled files are excluded from this repository through `.gitignore`.
+
+This repository is intended to present the main source files, model structure, and graphical outputs of the project.
