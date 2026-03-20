@@ -1,0 +1,6 @@
+slprj/
+*.slxc
+*.mexw64
+*.asv
+*.autosave
+*.bak
