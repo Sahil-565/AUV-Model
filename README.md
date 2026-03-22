@@ -41,6 +41,8 @@ The repository includes source files for parameter definition, vehicle modeling,
 This repository contains the main source files and result plots from the project.  
 Generated, cache, and compiled files are excluded through `.gitignore`.
 
-## Author
+## Sample Results
 
-Sahil Abdullayev
+Some example outputs from the project are shown below.
+
+![Graph 1](Report/Graphs/Linear%20-%20Angular%20Acceleration%20(40%25).png)
