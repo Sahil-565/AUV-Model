@@ -1,4 +1,4 @@
-# Sparus-AUV-Model
+# AUV-Model
 
 This repository contains a MATLAB/Simulink project for the modeling and simulation of the Sparus autonomous underwater vehicle (AUV).
 
