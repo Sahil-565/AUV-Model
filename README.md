@@ -5,7 +5,7 @@ This repository contains a MATLAB/Simulink project focused on the modeling and s
 ## Overview
 
 The aim of this project was to study and simulate the dynamic behavior of the Sparus vehicle using MATLAB scripts and a Simulink model.  
-The repository includes source files for parameter definition, vehicle modeling, plotting, and matrix-based calculations, along with graphical outputs generated during the project.
+The repository includes source files for parameter definition, vehicle modeling, plotting and matrix-based calculations, along with graphical outputs generated during the project.
 
 ## Tools Used
 
